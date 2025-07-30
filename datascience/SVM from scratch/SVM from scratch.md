@@ -1,10 +1,10 @@
-# From Scratch: Implementing a Support Vector Machine for Astronomical Classification
+# Build an Astronomical Classifier in 10 Minutes with Your Own SVM
 
-Support Vector Machines (SVMs) are a powerful and versatile set of supervised learning models used for classification, regression, and outlier detection. The fundamental idea behind an SVM is to find a hyperplane in an N-dimensional space (where N is the number of features) that distinctly classifies the data points.
+Support Vector Machines (SVMs) are a versatile set of supervised learning models used for classification, regression, and outlier detection. The fundamental idea behind an SVM is to find a hyperplane in an N-dimensional space (where N is the number of features) that distinctly classifies the data points.
 
 In this tutorial, we'll go through the process of building a linear SVM from the ground up using Python. We'll first implement a binary classifier and then extend it to handle multiple classes using the One-vs-Rest (OVR) strategy. We'll apply our custom SVM to a dataset of astronomical objects, aiming to classify them as galaxies, stars, or quasars.
 
-The dataset is available [here](https://www.kaggle.com/datasets/muhakabartay/sloan-digital-sky-survey-dr16) or via the GitHub of [this tutorial]().
+The dataset is available [here](https://www.kaggle.com/datasets/muhakabartay/sloan-digital-sky-survey-dr16) or via the GitHub of [this tutorial](https://github.com/Maximilian-Koch/tutorials/tree/main/datascience/SVM%20from%20scratch).
 
 -----
 
